@@ -1,0 +1,17 @@
+nav {
+    border-bottom: 1px solid darkcyan;
+    display: flex;
+    justify-content: space-around;
+
+    a {
+        padding: 25px;
+        text-decoration: none;
+        color: rgba(230, 216, 23, 0.8);
+        transition: text-shadow 1s, color 1s;
+
+        &:hover {
+            color: rgba(230, 216, 23, 1);
+            text-shadow: 1px 1px 12px rgba(230, 216, 23, 1);
+        }
+    }
+}
