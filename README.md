@@ -1,5 +1,5 @@
 ## React Webpage
-* Signal page application built with Angular 2 ===Work in Progress===
+* Signal page application built with React ===Work in Progress===
 
 ### Quick start
 
